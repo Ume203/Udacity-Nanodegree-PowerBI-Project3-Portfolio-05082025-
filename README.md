@@ -56,7 +56,7 @@ I have created three pages for the report.
 
 ---------
 🔴 Summary report
-[Page1](Screenshots/), [Page2](Screenshots/)
+[Page1](Screenshots/5-Summary-report-P.1.png), [Page2](Screenshots/)
 ---------
 
 After submission, I created a drill-through page to leverage industry and sales data, providing more detailed and transparent insights for each state.
