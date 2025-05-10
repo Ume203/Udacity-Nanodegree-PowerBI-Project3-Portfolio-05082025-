@@ -49,7 +49,7 @@ I have created three pages for the report.
    
 
 2. Customer Insights
-![2](Screeenshots/2-Customer-Insights.png)
+![2](Screenshots/2-Customer-insights.png)
 
 3. Product Insights
 ![3](Screeenshots/3-Product-Insights.png)
