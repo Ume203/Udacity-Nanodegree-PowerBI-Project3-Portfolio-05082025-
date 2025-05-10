@@ -49,14 +49,14 @@ I have created three pages for the report. After submission, I have created dril
    
 
 2. Customer Insights
-![1](Screeenshot/1-Income-and-Sales.png)
+![2](Screeenshot/2-Customer-Insights.png)
 
 3. Product Insights
+![3](Screeenshot/3-Product-Insights.png)
 
-4. Summary report 
+4. Summary report
 
+After submission, I have created drill through page for utilize industly data and sales data for more informaiton and practice drill through functionality.  
 
-After submission, I have created drill through page for utilize industly data and sales data for more informaiton and practice drill through functionality.
-
-
-6. 
+5. Drill Through State
+![4](Screenshot/4-Drill-Through-State.png)
