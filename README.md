@@ -52,9 +52,10 @@ I have created three pages for the report.
 ![2](Screenshots/2-Customer-insights.png)
 
 3. Product Insights
-![3](Screeenshots/3-Product-Insights.png)
+![3](Screenshots/3-Product-insights.png)
 
 4. Summary report
+[Page1](Screenshots/), [Page2](Screenshots/)
 
 After submission, I have created drill through page to utilize industly data and sales data for more informaiton and to see the clear information .  
 
