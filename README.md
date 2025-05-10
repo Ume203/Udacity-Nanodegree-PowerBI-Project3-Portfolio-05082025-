@@ -45,14 +45,14 @@ This project involves data preparation, advanced DAX calculations, and visual an
 I have created three pages for the report. After submission, I have created drill through page for utilize industly data and sales data for more informaiton and practice drill through functionality.
 
 1. Income & Location insights
-![1](Screeenshot/1-Income-and-Sales.png)
+![1](Screeenshots/1-Income-and-Sales.png)
    
 
 2. Customer Insights
-![2](Screeenshot/2-Customer-Insights.png)
+![2](Screeenshots/2-Customer-Insights.png)
 
 3. Product Insights
-![3](Screeenshot/3-Product-Insights.png)
+![3](Screeenshots/3-Product-Insights.png)
 
 4. Summary report
 
