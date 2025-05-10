@@ -59,4 +59,4 @@ I have created three pages for the report. After submission, I have created dril
 After submission, I have created drill through page for utilize industly data and sales data for more informaiton and practice drill through functionality.  
 
 5. Drill Through State
-![4](Screenshot/4-Drill-Through-State.png)
+![4](Screenshots/4-Drill-Through-State.png)
