@@ -54,10 +54,12 @@ I have created three pages for the report.
 🔵 Product Insights
 ![3](Screenshots/3-Product-insights.png)
 
+---------
 🔴 Summary report
 [Page1](Screenshots/), [Page2](Screenshots/)
+---------
 
-fter submission, I created a drill-through page to leverage industry and sales data, providing more detailed and transparent insights for each state.
+After submission, I created a drill-through page to leverage industry and sales data, providing more detailed and transparent insights for each state.
 
 🟤 Drill Through State
 ![4](Screenshots/4-Drill-Through-State.png)
