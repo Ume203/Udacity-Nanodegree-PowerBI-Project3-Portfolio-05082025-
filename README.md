@@ -57,7 +57,7 @@ I have created three pages for the report.
 🔴 Summary report
 [Page1](Screenshots/), [Page2](Screenshots/)
 
-After submission, I have created drill through page to utilize industly data and sales data for more informaiton and to see the clear information .  
+fter submission, I created a drill-through page to leverage industry and sales data, providing more detailed and transparent insights for each state.
 
 🟤 Drill Through State
 ![4](Screenshots/4-Drill-Through-State.png)
