@@ -58,11 +58,11 @@ I have created three pages for the report.
 * There was no customer income data provided, and estimating it was one of the project tasks. I used linear regression based on customer purchase data and average state income data from the U.S. Census Bureau to make the estimates.
   
 🟣 Customer Insights
-![2](Screenshots/2-Customer-insights.png)
+![2](Screenshots/2-Customer-Insights.png)
 * I added calculated columns for outliers and Z-scores to use for the analysis and visualizations.
 
 🔵 Product Insights
-![3](Screenshots/3-Product-insights.png)
+![3](Screenshots/3-Product-Insights.png)
 
 ---------
 🔴 Summary report
