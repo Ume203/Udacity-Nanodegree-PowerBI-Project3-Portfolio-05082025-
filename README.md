@@ -42,7 +42,7 @@ This project involves data preparation, advanced DAX calculations, and visual an
 
 -----
 
-## I have created three pages for the report. 
+I have created three pages for the report. 
 
 🟠 Income & Location insights
 ![1](Screenshots/1-Income-and-Location-Insights.png)
