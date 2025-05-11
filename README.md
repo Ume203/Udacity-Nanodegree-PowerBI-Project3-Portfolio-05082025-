@@ -48,10 +48,11 @@ I have created three pages for the report.
 
 🟠 Income & Location insights
 ![1](Screenshots/1-Income-and-Location-Insights.png)
-   
-
+* There was no customer income data provided, so I estimated it using linear regression, treating customer income as the predicted Y value based on customer purchase data and average state income data from the U.S. Census Bureau.
+  
 🟣 Customer Insights
 ![2](Screenshots/2-Customer-insights.png)
+* I added calculated columns for outliers and Z-scores to support the visualizations.
 
 🔵 Product Insights
 ![3](Screenshots/3-Product-insights.png)
