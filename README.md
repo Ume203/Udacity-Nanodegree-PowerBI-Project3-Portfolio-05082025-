@@ -12,21 +12,13 @@ This project involves data preparation, advanced DAX calculations, and visual an
 ## Data sources
 
 - US Census Bureau </br>
-Average income</br>
-location</br>
-population</br>
-industry</br>
+Average income, location, population, industry</br>
+
 - Business Data</br>
-Product inventory</br>
-Product prices</br>
-Customer rating</br>
-Product return rate</br>
+Product inventory, Product prices, Customer rating, Product return rate </br>
+
 - Customer Data</br>
-Customer ID</br>
-Names</br>
-Location</br>
-Date of birth</br>
-Purchase history</br>
+Customer ID, Names, Location, Date of birth, Purchase history</br>
 
 -----
 ## Key Tasks
