@@ -9,7 +9,26 @@ A national online clothing retailer is experiencing stagnant sales and wants to 
 This project involves data preparation, advanced DAX calculations, and visual analysis to generate personalized marketing insights. You'll use Power BI to create visuals that highlight customer trends and provide actionable recommendations for the company's marketing team.
 
 ---
+## Data sources
 
+- US Census Bureau </br>
+Average income</br>
+location</br>
+population</br>
+industry</br>
+- Business Data</br>
+Product inventory</br>
+Product prices</br>
+Customer rating</br>
+Product return rate</br>
+- Customer Data</br>
+Customer ID</br>
+Names</br>
+Location</br>
+Date of birth</br>
+Purchase history</br>
+
+-----
 ## Key Tasks
 
 ### 1. Data Preparation with Power Query
