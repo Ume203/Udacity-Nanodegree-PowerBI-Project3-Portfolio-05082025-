@@ -14,7 +14,7 @@ This project involves data preparation, advanced DAX calculations, and visual an
 
 ---
 
-## Key Deliverables
+## Key Tasks
 
 ### 1. Data Preparation with Power Query
 - Clean and structure the dataset using Power Query Editor.
@@ -42,7 +42,7 @@ This project involves data preparation, advanced DAX calculations, and visual an
 
 -----
 
-I have created three pages for the report. 
+## I have created three pages for the report. 
 
 🟠 Income & Location insights
 ![1](Screenshots/1-Income-and-Location-Insights.png)
@@ -59,6 +59,7 @@ I have created three pages for the report.
 [Page1](Screenshots/5-Summary-report-P.1.png), [Page2](Screenshots/6-Summary-report-P.2.png)
 --------
 
+## Additional Drill-through page
 After submission, I created a drill-through page to leverage industry and sales data, providing more detailed and transparent insights for each state. To build the KPI visualization, I first grouped the sales data into daily summaries by state. Then, I merged the queries and created one DAX measure to show the latest sales for each state, and another to caluculate each state's highest-ever salses, which I used as a sales target. 
 
 🟤 Drill Through State
