@@ -1,4 +1,4 @@
-# Project 3: Market Analysis Report for a National Clothing Chain
+# Project 3: Market Analysis Report for a National Clothing Chain 
 
 ## Objective
 A national online clothing retailer is experiencing stagnant sales and wants to re-engage past customers through targeted marketing. The company aims to advertise one of three key products — **Shirt ($25)**, **Sweater ($100)**, or **Leather Bag ($1,000)** — but is uncertain which customers to target and with which product. Your task is to build a data-driven Power BI report that helps identify the optimal customer-product-location matches for a new campaign.
