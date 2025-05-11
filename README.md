@@ -64,7 +64,7 @@ I have created three pages for the report.
 🔵 Product Insights
 ![3](Screenshots/3-Product-Insights.png)
 
-The provided sales data spans only six months (September to March), which limits the ability to conduct a comprehensive seasonal analysis. As a result, demand forecasting and product recommendations may be biased toward colder months, missing important insights from spring and summer seasons. To demonstrate Power BI functionality, I generated basic product recommendations using predicted customer income and product pricing. However, incorporating regional weather data could have enabled a more detailed and accurate production recommendation aligned with seasonal demand.
+* The provided sales data spans only six months (September to March), which limits the ability to conduct a comprehensive seasonal analysis. As a result, demand forecasting and product recommendations may be biased toward colder months, missing important insights from spring and summer seasons. To demonstrate Power BI functionality, I generated basic product recommendations using predicted customer income and product pricing. However, incorporating regional weather data could have enabled a more detailed and accurate production recommendation aligned with seasonal demand.
 
 ---------
 🔴 Summary report
