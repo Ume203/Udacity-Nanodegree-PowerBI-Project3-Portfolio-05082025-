@@ -60,7 +60,7 @@ I have created three pages for the report.
 --------
 
 ## Additional Drill-through page
-After submission, I created a drill-through page to leverage industry and sales data, providing more detailed and transparent insights for each state. To build the KPI visualization, I first grouped the sales data into daily summaries by state. Then, I merged the queries and created one DAX measure to show the latest sales for each state, and another to caluculate each state's highest-ever salses, which I used as a sales target. 
+After submission, I created a drill-through page to leverage industry and sales data, providing more detailed and transparent insights for each state. To build the KPI visualization, I first grouped the sales data into daily summaries by state. Then, I merged the queries and created one DAX measure to show the latest Monthly sales for each state, and another to caluculate each state's highest-ever Monthly salses, which I used as a sales target. 
 
 🟤 Drill Through State
 ![4](Screenshots/4-Drill-Through-State.png)
