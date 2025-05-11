@@ -41,6 +41,7 @@ This project involves data preparation, advanced DAX calculations, and visual an
 5. Which product will be advertised the most?
 
 -----
+
 ### Dashboard Preview
 
 I have created three pages for the report. 
