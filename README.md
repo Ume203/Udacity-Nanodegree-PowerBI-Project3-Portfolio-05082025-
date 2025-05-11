@@ -1,7 +1,3 @@
-This is the third and final project under Udacity Nanodegree program </br>
-Data Analysis and Visualization with Microsoft Power BI - Course 4: Advanced Data Analysis with Power BI.
-
-----
 # Project 3: Market Analysis Report for a National Clothing Chain
 
 ## Objective
@@ -65,5 +61,5 @@ I have created three pages for the report.
 ## Additional Drill-through page
 After submission, I created a drill-through page to leverage industry and sales data, providing more detailed and transparent insights for each state. To build the KPI visualization, I first grouped the sales data into daily summaries by state. Then, I merged the queries and created one DAX measure to show the latest Monthly sales for each state, and another to caluculate each state's highest-ever Monthly sales, which I used as a sales target. 
 
-🟤 Drill Through State
+🟤 Drill Through by State
 ![4](Screenshots/4-Drill-Through-State.png)
