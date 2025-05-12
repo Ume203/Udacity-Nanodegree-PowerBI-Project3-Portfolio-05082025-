@@ -59,7 +59,6 @@ I have created three pages for the report.
   
 🟣 Customer Insights
 ![2](Screenshots/2-Customer-Insights.png)
-* I added calculated columns for outliers and Z-scores to use for the analysis and visualizations.
 
 🔵 Product Insights
 ![3](Screenshots/3-Product-Insights.png)
