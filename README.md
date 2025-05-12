@@ -76,3 +76,8 @@ After passing the project assessment, I created a drill-through page to leverage
 
 🟤 Drill Through by State
 ![4](Screenshots/4-Drill-Through-State.png)
+
+---
+## Reflection
+
+If I had more time, I would have enhanced the dashboards by incorporating weather data to explore potential correlations and by adding more user-friendly slicers to improve interactivity. While the current version captures the core insights effectively, these additions could provide a more comprehensive and engaging user experience.
